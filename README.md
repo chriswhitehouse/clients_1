@@ -8,7 +8,7 @@ To support learning about server client relationships.
 Finished
 
 ## Screenshots
-Include logo/demo screenshot etc.
+![Talking Clock](https://github.com/chriswhitehouse/clients_1/blob/main/Screenshot%202020-12-10%20at%2013.52.07.png)
 
 ## Tech/framework used
 Ruby with Socket gem
